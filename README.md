@@ -64,3 +64,17 @@ pip install -r requirements.txt
 
 To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Kaggle or any Jupyter-compatible environment.
 
+## ⚙️ Hyperparameters
+
+| Hyperparameter   | Value        |
+|------------------|--------------|
+| Learning Rate    | 1e-4         |
+| Batch Size       | 32           |
+| Epochs           | 50           |
+| Early Stopping Patience | 10    |
+| Dropout Rate     | 0.3          |
+| Input Size       | 299 × 299 × 3 |
+| Loss Function    | BCEWithLogitsLoss |
+| Optimizer        | Adam         |
+| Scheduler        | None used    |
+

@@ -50,7 +50,7 @@ model’s performance.
 
 ## Model Weights
 
-Model is linked externally to maintain reproducibility while complying with GitHub upload constraints. you can download the full model here:
+Model is linked externally to maintain reproducibility while complying with GitHub upload constraints. Download the full model from here:
 
 [Download best_model.pt (97MB)](https://drive.google.com/file/d/1suSwix4gSB1_UOAAWlxFMMfPYqKTGZRz/view?usp=sharing)
 

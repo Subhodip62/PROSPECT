@@ -39,12 +39,13 @@ model’s performance.
 
 ## Repository Contents
 
-| File/Folder                            | Description                             |
-|----------------------------------------|-----------------------------------------|
-| `subhodip_chakraborty_assignment.ipynb` | Full training + evaluation notebook      |
-| `requirements.txt`                     | Installable packages                     |
-| `Confusion matrix.png`         | Test set confusion matrix                |
-| `figures/gradcam_false_negative.png`   | GradCAM overlay on false negative case   |
+| File/Folder                             | Description                              |
+|---------------------------------------- |----------------------------------------- |
+| `subhodip-chakraborty-assignment.ipynb` | Full training + evaluation notebook      |
+| `requirements.txt`                      | Installable packages                     |
+| `Confusion matrix.png`                  | Test set confusion matrix                |
+| ``                  | False negative with prediction probability 0.112                |
+| ``    | GradCAM overlay on false negative case   |
 
 
 ## Model Weights

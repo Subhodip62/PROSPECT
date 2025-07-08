@@ -43,7 +43,7 @@ model’s performance.
 |----------------------------------------|-----------------------------------------|
 | `subhodip_chakraborty_assignment.ipynb` | Full training + evaluation notebook      |
 | `requirements.txt`                     | Installable packages                     |
-| `figures/confusion_matrix.png`         | Test set confusion matrix                |
+| `Confusion matrix.png`         | Test set confusion matrix                |
 | `figures/gradcam_false_negative.png`   | GradCAM overlay on false negative case   |
 
 

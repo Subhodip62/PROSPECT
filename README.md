@@ -4,13 +4,13 @@ A deep learning-based solution for detecting pneumonia from chest X-rays in chro
 
 ---
 
-## 🔍 Objective
+## Objective
 
 Fine-tune a Inception-V3 to distinguish pneumonia from normal chest X-ray, and report your
 model’s performance.
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 - Backbone: Pretrained **InceptionV3** (ImageNet)
 - Fine-Tuned Layer: `Mixed_7c` (last Inception block)
@@ -23,7 +23,7 @@ model’s performance.
 
 ---
 
-## 📊 Final Test Results
+## Final Test Results
 
 | Metric    | Value     |
 |-----------|-----------|
@@ -37,7 +37,7 @@ model’s performance.
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File/Folder                            | Description                             |
 |----------------------------------------|-----------------------------------------|
@@ -47,15 +47,15 @@ model’s performance.
 | `figures/gradcam_false_negative.png`   | GradCAM overlay on false negative case   |
 
 
-## 🔗 Model Weights
+## Model Weights
 
 Model is linked externally to maintain reproducibility while complying with GitHub upload constraints. you can download the full model here:
 
-➡️ [Download best_model.pt (97MB)](https://drive.google.com/file/d/1suSwix4gSB1_UOAAWlxFMMfPYqKTGZRz/view?usp=sharing)
+[Download best_model.pt (97MB)](https://drive.google.com/file/d/1suSwix4gSB1_UOAAWlxFMMfPYqKTGZRz/view?usp=sharing)
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 Install required packages:
 
@@ -66,7 +66,7 @@ To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Ka
 
 ```
 
-## ⚙️ Hyperparameters
+## Hyperparameters
 
 | Hyperparameter   | Value        |
 |------------------|--------------|
@@ -82,14 +82,14 @@ To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Ka
 
 ---
 
-## 🩺 Clinical Summary
+## Clinical Summary
 
 > **This model rapidly flags pneumonia risk with strong accuracy and interpretable attention heatmaps for clinicians.**  
 > Leveraging InceptionV3 and GradCAM, it provides early decision support for suspected pneumonia in chronic pancreatitis patients.
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 - **Source**: [PneumoniaMNIST](https://www.kaggle.com/datasets/rijulshr/pneumoniamnist/data)
 - **Type**: Resized grayscale chest X-rays (28×28)
@@ -98,7 +98,7 @@ To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Ka
 
 ---
 
-## 👨‍🔬 Author
+## Author
 
 **Subhodip Chakraborty**  
 Assignment for **Project Research Scientist-I**  

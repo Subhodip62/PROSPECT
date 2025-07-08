@@ -41,7 +41,7 @@ model’s performance.
 
 | File/Folder                            | Description                             |
 |----------------------------------------|-----------------------------------------|
-| `Subhodip_Chakraborty_Assignment.ipynb` | Full training + evaluation notebook      |
+| `subhodip_chakraborty_assignment.ipynb` | Full training + evaluation notebook      |
 | `requirements.txt`                     | Installable packages                     |
 | `figures/confusion_matrix.png`         | Test set confusion matrix                |
 | `figures/gradcam_false_negative.png`   | GradCAM overlay on false negative case   |
@@ -62,5 +62,5 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 
-To reproduce results, open and run `Subhodip_Chakraborty_Assignment.ipynb` on Kaggle or any Jupyter-compatible environment.
+To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Kaggle or any Jupyter-compatible environment.
 

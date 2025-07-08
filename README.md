@@ -78,3 +78,28 @@ To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Ka
 | Optimizer        | Adam         |
 | Scheduler        | None used    |
 
+---
+
+## 🩺 Clinical Summary
+
+> **This model rapidly flags pneumonia risk with strong accuracy and interpretable attention heatmaps for clinicians.**  
+> Leveraging InceptionV3 and GradCAM, it provides early decision support for suspected pneumonia in chronic pancreatitis patients.
+
+---
+
+## 📚 Dataset
+
+- **Source**: [PneumoniaMNIST](https://www.kaggle.com/datasets/rijulshr/pneumoniamnist/data)
+- **Type**: Resized grayscale chest X-rays (28×28)
+- **Classes**: 0 = Normal, 1 = Pneumonia
+- **Preprocessing**: Converted to RGB and resized to 299×299 to match InceptionV3 input size
+
+---
+
+## 👨‍🔬 Author
+
+**Subhodip Chakraborty**  
+Assignment for **Project Research Scientist-I**  
+Model built and evaluated using **PyTorch on Kaggle Notebooks**
+
+---

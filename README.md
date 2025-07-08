@@ -102,6 +102,7 @@ To reproduce results, open and run `subhodip-chakraborty-assignment.ipynb` on Ka
 ## Author
 
 **Subhodip Chakraborty**  
+5 years integrated MSc in Statistics, University of Kalyani
 Assignment for **Project Research Scientist-I**  
 Model built and evaluated using **PyTorch on Kaggle Notebooks**
 

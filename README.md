@@ -62,7 +62,7 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 
-To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Kaggle or any Jupyter-compatible environment.
+To reproduce results, open and run `subhodip-chakraborty-assignment.ipynb` on Kaggle or any Jupyter-compatible environment.
 
 ```
 

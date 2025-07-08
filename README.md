@@ -64,6 +64,8 @@ pip install -r requirements.txt
 
 To reproduce results, open and run `subhodip_chakraborty_assignment.ipynb` on Kaggle or any Jupyter-compatible environment.
 
+---
+
 ## ⚙️ Hyperparameters
 
 | Hyperparameter   | Value        |

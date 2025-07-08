@@ -44,7 +44,7 @@ model’s performance.
 | `subhodip-chakraborty-assignment.ipynb` | Full training + evaluation notebook      |
 | `requirements.txt`                      | Installable packages                     |
 | `Confusion matrix.png`                  | Test set confusion matrix                |
-| ``                  | False negative with prediction probability 0.112                |
+| `false negative.png`                  | False negative;prediction probability 0.112|
 | ``    | GradCAM overlay on false negative case   |
 
 
